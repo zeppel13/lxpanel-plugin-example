@@ -20,7 +20,7 @@ make run
 
 
 or do theses steps by hand or include them to your build system, however you feel about it. 
-After compiling and placing the freshly created plugins binary add and restarting the panel(done by make) add it by hand to lxpanel.
+After compiling and placing the freshly created plugin binary and restarting the panel(done by make) add it by hand to your running lxpanel instance.
 
 Have a nice day!
 
