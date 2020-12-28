@@ -6,3 +6,13 @@ read this: https://wiki.lxde.org/en/How_to_write_plugins_for_LXPanel
 I couldn't find a good barebones minimal plugin for lxpanel (the panel of lxde). 
 The code comes from the instruction page of the lxde wiki. This repo could be used as a minimal skeleton for writing future plugins.
 
+I combined the code small code snippets to a file and added a simple minimal makefile:
+
+run
+
+```
+make
+make install
+make run 
+```
+or do theses steps by hand or include them to your build system, however you feel about it. Have a nice day!
