@@ -8,6 +8,8 @@ The code comes from the instruction page of the lxde wiki. This repo could be us
 
 I combined the code small code snippets to a file and added a simple minimal makefile:
 
+edit the source and
+
 run
 
 ```
