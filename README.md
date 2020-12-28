@@ -17,4 +17,11 @@ make
 make install
 make run 
 ```
-or do theses steps by hand or include them to your build system, however you feel about it. Have a nice day!
+
+
+or do theses steps by hand or include them to your build system, however you feel about it. 
+After compiling and placing the freshly created plugins binary add and restarting the panel(done by make) add it by hand to lxpanel.
+
+Have a nice day!
+
+
