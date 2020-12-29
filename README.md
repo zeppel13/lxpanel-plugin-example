@@ -25,3 +25,4 @@ After compiling and placing the freshly created plugin binary and restarting the
 Have a nice day!
 
 
+# lxpanel_command_monitor
